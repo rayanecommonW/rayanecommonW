@@ -1,4 +1,4 @@
-Sometimes i do rootme fr
+Sometimes i do rootme 
 
 <!---
 rayanecommonW/rayanecommonW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
